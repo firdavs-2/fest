@@ -1,0 +1,26 @@
+body{
+    background-color: chocolate;
+}
+.git{
+    width: 900px;
+    height: 900px;
+    background: linear-gradient(blue,green);
+   margin-left: 400px;
+   margin-top: 70px;
+   position: absolute;
+   
+}
+.card{
+    width: 500px;height: 500px;
+    background-color: rgba(255, 0, 0, 0.306);
+    margin-left: 200px;
+    margin-top: 200px;
+}
+h1{
+    text-align: center;
+    color: #fff;
+    font-size: 40px;
+    flex-wrap: wrap-reverse;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 40px 0px 80px;
+}
